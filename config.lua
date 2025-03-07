@@ -8,7 +8,7 @@ Config = {}
 --     {name = "Rifle2", ammo = "AMMO-RIFLE2", item = "ammo-rifle2"}
 -- }
 
-Config.Ammo = {
+Config.Item = {
     {name = "Amunicja 9mm", item = "ammo-9"},
     {name = "22 Long Rifle", item = "ammo-22"},
     {name = ".38 Long Colt", item = "ammo-38"},
